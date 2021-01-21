@@ -1,0 +1,7 @@
+*.zip
+config.json
+images/*
+.vscode
+__pycac*
+tests.py
+
